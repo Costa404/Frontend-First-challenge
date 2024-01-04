@@ -1,3 +1,3 @@
 function alertUser() {
-  alert("Hey, Ups!");
+  alert("Heyyy, to late :(");
 }
